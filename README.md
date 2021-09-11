@@ -58,7 +58,7 @@ class Node:
         self.right = None
 ```
 
-# 만든 사람
+# MadeBy
 * [x] 이성규
 * [ ] https://github.com/magmom95
 * [ ] https://github.com/magmom7
