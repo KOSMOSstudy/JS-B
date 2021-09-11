@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Test%20Algo&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&)
 
 ## 대표적인 데이터 구조: 트리
 
