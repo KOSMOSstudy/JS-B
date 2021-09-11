@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Test%20Algo&fontSize=90&animation=fadeIn&fontAlignY=38&)
-## 각자 이름으로 폴더를 만들어 주시고 mdfile을 작성해주세요
+
 
 ## 대표적인 데이터 구조7: 트리
 
