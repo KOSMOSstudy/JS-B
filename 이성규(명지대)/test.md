@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Test%20Algo&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20이성규&descAlignY=65&descAlign=62)
 
-
-## 대표적인 데이터 구조7: 트리
+#header
+```
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Js%20Study&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20본인의 이름을 넣어주세요&descAlignY=65&descAlign=62)
+```
+## Navigation
+[MadeBy](#MadeBy)
+## 대표적인 데이터 구조: 트리
 
 ### 1. 트리 (Tree) 구조
 - 트리: Node와 Branch를 이용해서, 사이클을 이루지 않도록 구성한 데이터 구조
@@ -53,7 +58,7 @@ class Node:
         self.right = None
 ```
 
-### 6. 만든 사람
+# MadeBy
 * [x] 이성규
 * [ ] https://github.com/magmom95
 * [ ] https://github.com/magmom7
