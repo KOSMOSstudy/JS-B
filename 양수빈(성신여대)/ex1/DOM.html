@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body { font-size: 3rem;}
+    h1{
+        background: purple;
+    }
+    </style>
+    <script>
+        // window.onload = function() {
+        //     var title = document.getElementById('main-title')
+        //     console.log(title)
+        // };
+    </script>
+</head>
+<body>
+    <h1 id="main-title">
+        <span>무</span>
+        <span>야</span>
+        <span>동</span>
+        DOM (Doucment Object Model) </h1>
+    <article>
+        <header class="main-header">header1</header>
+        <section>
+            <header>1 header</header>
+            section 1
+        </section>
+        <section>
+            <header>2 header</header>
+            section 2
+        </section>
+    </article>    
+    <script>
+        // var title = document.getElementById('main-title')
+        // console.log(title)
+
+        var titleSpan = document.getElementsByTagName('span')
+        console.log(titleSpan) /// [span, span, span]
+
+        // '무', '야', '동' 중에서 '무'만 나오게 하려면 -> index 사용
+        console.log(titleSpan[0]) /// <span>무</span>
+    </script>
+</html>
